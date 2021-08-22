@@ -1,7 +1,6 @@
-#form based on react stack
+# Interactive form based on react stack
 
-#featuers
-
-add task 
-
-toggole reminder on by double clicking on a task
+## featuers
+* Add task 
+* Delete task
+* Toggole reminder by double clicking on a task
